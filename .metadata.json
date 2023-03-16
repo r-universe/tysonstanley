@@ -1,0 +1,14 @@
+[
+  {
+    "package": "furniture",
+    "oncran": true
+  },
+  {
+    "package": "MarginalMediation",
+    "oncran": true
+  },
+  {
+    "package": "tidyfast",
+    "oncran": true
+  }
+]
