@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "furniture"]
-	path = furniture
-	url = https://github.com/tysonstanley/furniture
 [submodule "MarginalMediation"]
 	path = MarginalMediation
 	url = https://github.com/tysonstanley/marginalmediation
+[submodule "furniture"]
+	path = furniture
+	url = https://github.com/tysonstanley/furniture
 [submodule "tidyfast"]
 	path = tidyfast
 	url = https://github.com/tysonstanley/tidyfast
